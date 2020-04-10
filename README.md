@@ -15,4 +15,4 @@
 > #### Rahul Saxena
 
 ## Acknowledgement
-> This Project is under the guidance of my mentor Mr. Divyansh Bhardwaj. Do Follow Him [HERE](https://github.com/dbc2201).
+> This Project is made under the guidance of my mentor Mr. Divyansh Bhardwaj. Do Follow Him [HERE](https://github.com/dbc2201).
