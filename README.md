@@ -15,5 +15,7 @@
 ## Publisher
 > #### Rahul Saxena
 
+## License
+> Apache v2.0
 ## Acknowledgement
 > This Project is made under the guidance of my mentor Mr. Divyansh Bhardwaj. Do Follow Him [HERE](https://github.com/dbc2201).
